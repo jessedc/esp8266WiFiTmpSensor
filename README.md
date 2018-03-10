@@ -8,7 +8,13 @@ The goal of this sketch is to report the ambient temperature to a remote/IOT ser
 
 This sketch simply demonstrates basic WiFi and HTTP usage of the ESP8266 as well as a simple I2C sensor. The MCP9808 library is build for Arduino but works fine running on ESP8266.
 
-The live data generated from this sketch can be seen [here](https://thingspeak.com/channels/445104).
+# Outcomes
+
+The microcontroller and sensor will report the ambient temperature of a small solar storage project. The live data generated from this sketch can be seen [here](https://thingspeak.com/channels/445104).
+
+This is a rudimentary first pass of installing the sensor with blu-tack.
+
+![](esy8266-temp.jpg)
 
 # Hardware
 
