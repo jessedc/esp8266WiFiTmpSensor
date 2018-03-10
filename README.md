@@ -1,6 +1,6 @@
 # Esp8266 WiFi Temperature Sensor
 
-A basic sketch showing how to use the ESP8266 with the [Adafruit MCP9808][sensor] to log the ambient temerature to [thingsspeak.com](https://thingsspeak.com)
+A basic sketch showing how to use the ESP8266 with the [Adafruit MCP9808][sensor] to log the ambient temerature to [thingspeak.com](https://thingspeak.com)
 
 # Goals
 
