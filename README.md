@@ -1,6 +1,6 @@
 # Esp8266 WiFi Temperature Sensor
 
-A basic sketch showing how to use the ESP8266 with the [Adafruit MCP9808][sensor] to log the ambient temerature to [thingspeak.com](https://thingspeak.com)
+A basic sketch showing how to use the ESP8266 with the [Adafruit MCP9808][sensor] to log the ambient temperature to [thingspeak.com](https://thingspeak.com)
 
 # Goals
 
@@ -10,7 +10,7 @@ This sketch simply demonstrates basic WiFi and HTTP usage of the ESP8266 as well
 
 # Outcomes
 
-The microcontroller and sensor will report the ambient temperature of a small solar storage project. The live data generated from this sketch can be seen [here](https://thingspeak.com/channels/445104).
+The micro-controller and sensor will report the ambient temperature of a small solar storage project. The live data generated from this sketch can be seen [here](https://thingspeak.com/channels/445104).
 
 This is a rudimentary first pass of installing the sensor with blu-tack.
 
@@ -19,12 +19,12 @@ This is a rudimentary first pass of installing the sensor with blu-tack.
 # Hardware
 
 - [NodeMCU ESP8266 Dev Board](https://rover.ebay.com/rover/1/705-53470-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338270079&mpre=https%3A%2F%2Fwww.ebay.com.au%2Fitm%2FNodeMcu-Lua-V3-WIFI-Networking-development-board-Based-ESP8266-IoT%2F181916585996)
-- [Adafruit MCP98080 Temp Sensor][sensor]
+- [Adafruit MCP9808 Temp Sensor][sensor]
 
 # Prerequisites
 
 - Arduino IDE with [ESP8266 Arduino Core][esp-core] installed
-- [Adafruit MCP9808 Library](https://github.com/adafruit/Adafruit_MCP9808_Library)
+- [Adafruit MCP9808 Library](https://github.com/adafruit/Adafruit_MCP9808_Library) installed
 
 # Setup
 
