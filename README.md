@@ -6,7 +6,7 @@ A basic sketch showing how to use the ESP8266 with the [Adafruit MCP9808][sensor
 
 The goal of this sketch is to report the ambient temperature to a remote/IOT server. As a bonus is it easy to also send the WiFi signal strength.
 
-This sketch simply demonstrates basic WiFi and HTTP usage of the ESP8266 as well as a simple I2C sensor. The MCP9808 library is build for Arduino but works fine running on ESP8266.
+This sketch simply demonstrates basic WiFi and HTTP usage of the ESP8266 as well as a simple I2C sensor. The MCP9808 library is built for Arduino but works fine running on ESP8266.
 
 # Outcomes
 
